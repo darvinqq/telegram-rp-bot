@@ -11,7 +11,6 @@ TOKEN = "8528159982:AAFynK9sNetbAYrBMfeHynShQN3-XPPcUpE"
 ADMINS = [1633168964 , 1193085204]
 
 LOG_CHAT_ID = -1003488568426
-LOG_TOPIC_ID = 
 
 # ---------- KEEP ALIVE ----------
 app_web = Flask('')

@@ -158,7 +158,6 @@ app.add_handler(CommandHandler("balance", balance))
 app.add_handler(CommandHandler("profile", profile))
 app.add_handler(CommandHandler("add", add))
 app.add_handler(CommandHandler("pay", pay))
-app.add_handler(CommandHandler("пей", pay))
 app.add_handler(CommandHandler("top", top))
 
 app.run_polling()
